@@ -1,15 +1,12 @@
 # Hi there 👋, Oğuzhan here. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=okcl.repoName) [![GitHub followers](https://img.shields.io/github/followers/okcl.svg?style=social&label=Follow)](https://github.com/okcl?tab=followers)<br/>
 
-<!--
-**Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am an undergraduate Computer science. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at.Also I'm enrolled with Patika.dev / Picus Cyber Talent Academy program. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
   - Java
@@ -24,4 +21,5 @@ I am an undergraduate Computer science. C, C++, Python, Javascript, HTML, and Sh
 ---------------------------------------------------------------------------------------------------------------------
 
 <h2>🎶 Now Listening To</h2>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11149482918&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=11149482918&redirect=true)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11149482918&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
