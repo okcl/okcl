@@ -6,7 +6,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at.Also I'm enrolled with Patika.dev / Picus Cyber Talent Academy program. I love to learn and build something new, productive, innovative and creative.
+I am an undergraduate Computer science. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at.Also I'm enrolled with <a href="patika.dev">Patika.dev</a> / Picus Cyber Talent Academy program. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
   - Java
