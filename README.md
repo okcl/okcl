@@ -22,4 +22,4 @@ I am an undergraduate Computer science. C, C++, Python, Javascript, HTML, and Sh
 
 <h2>🎶 Now Listening To</h2>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11149482918&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11149482918&cover_image=true&theme=default&bar_color_cover=false)
