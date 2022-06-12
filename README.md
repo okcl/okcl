@@ -7,11 +7,10 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am an undergraduate Computer science. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at.Also I'm enrolled with <a href="patika.dev">Patika.dev</a> / Picus Cyber Talent Academy program. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
+* **I am interested in Cyber Security, Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
   - Java
   - React js
-  - Cyber Security
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
