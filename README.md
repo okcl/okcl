@@ -6,7 +6,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a self taught developer. C++, Python, HTML, and Shell are the programming languages I am good at.Also nowadays I invest my time learning on blockchain. I love to learn and build something new, productive, innovative and creative.
+I am a self taught developer. C++, Python, HTML, and Shell are the programming languages that I'm currently trying to improve myself.Also nowadays I invest my time learning on blockchain. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Blockchain technology, Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
   - Rust
