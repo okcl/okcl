@@ -9,8 +9,8 @@
 I am a self taught developer. C++, Python, HTML, and Shell are the programming languages that I'm currently trying to improve myself.Also nowadays I invest my time learning on blockchain. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Blockchain technology, Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
-  - Rust
-  - Solidty
+  - Javascript
+  - Stable Diffusion(ML)
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
