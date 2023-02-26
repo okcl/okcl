@@ -6,7 +6,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a self taught developer. I studied data structure and algorithms so depending on the project, I do learn syntax of the technology that is needed. Also nowadays I invest my time learning on blockchain. I love to learn and build something new, productive, innovative and creative.
+I am a self taught developer. I studied data structure and algorithms so depending on the project, I do learn syntax of the technology that is needed. Nowadays I invest my time learning on blockchain. I would love to learn and build something new, productive, innovative and creative.
 * **I am interested in Blockchain technology, Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
   - Javascript
