@@ -6,12 +6,11 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a self taught developer. I studied data structure and algorithms so depending on the project, I do learn syntax of the technology that is needed. Nowadays I invest my time learning on blockchain. I would love to learn and build something new, productive, innovative and creative.
+I am a self taught developer. Currently I am participating a Full-Stack bootcamp made by Develhope and I am leading a team project. I would love to learn and build something new, productive, innovative and creative.
 * **I am interested in Blockchain technology, Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
   - Javascript
   - Stable Diffusion(ML)
-- 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="oguzkhanakcali@gmail.com">oguzkhanakcali@gmail.com</a>
