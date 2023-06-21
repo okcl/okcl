@@ -9,7 +9,7 @@
 I am a self taught developer. I am currently participating a Full-Stack bootcamp made by Develhope and I do lead a team project there. I would love to learn and build something new, productive, innovative and creative.
 * **I am interested in Blockchain technology, Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
-  - React
+  - Typescript
   - Stable Diffusion(ML)
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
