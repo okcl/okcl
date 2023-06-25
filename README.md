@@ -12,7 +12,7 @@ I am a self taught developer. I am currently participating a Full-Stack bootcamp
   - Typescript
   - Stable Diffusion(ML)
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+- Outside tech, 🎮I love to play games, 📖 read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="oguzkhanakcali@gmail.com">oguzkhanakcali@gmail.com</a>
 
 
