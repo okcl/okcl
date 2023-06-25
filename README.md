@@ -1,4 +1,4 @@
-# Hello 👋, I am Oğuzhan. 
+# Hello 👋, I am Ozzy. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=okcl.repoName) [![GitHub followers](https://img.shields.io/github/followers/okcl.svg?style=social&label=Follow)](https://github.com/okcl?tab=followers)<br/>
 
 
