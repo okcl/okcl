@@ -13,7 +13,7 @@ I am currently participating a Full-Stack bootcamp made by Develhope and I do le
   - Stable Diffusion
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 🎮I love to play games, 📖 read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="oguzkhanakcali@gmail.com">oguzkhanakcali@gmail.com</a>
+- 📫 Reach out to me at: <a href="ozzyakcali@gmail.com">ozzyakcali@gmail.com</a>
 
 
 
