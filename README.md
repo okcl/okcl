@@ -9,8 +9,7 @@
 I am currently participating a Full-Stack bootcamp made by Develhope and I do lead a team project there. I would love to learn and build something new, productive, innovative and creative.
 * **I am interested in Blockchain technology, Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
-  - Typescript
-  - Stable Diffusion
+  - Node.js
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 🎮I love to play games, 📖 read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="ozzyakcali@gmail.com">ozzyakcali@gmail.com</a>
