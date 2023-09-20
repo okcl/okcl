@@ -15,10 +15,3 @@ I am currently participating a Full-Stack bootcamp made by Develhope and I do le
 - 📫 Reach out to me at: <a href="ozzyakcali@gmail.com">ozzyakcali@gmail.com</a>
 
 
-
----------------------------------------------------------------------------------------------------------------------
-
-<h2>🎶 Now Listening To</h2>
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11149482918&cover_image=true&theme=default&bar_color_cover=false)
-
