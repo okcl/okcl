@@ -1,4 +1,4 @@
-# Hello 👋, I am Ozzy. 
+# Hello 👋, I am Oguzhan. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=okcl.repoName) [![GitHub followers](https://img.shields.io/github/followers/okcl.svg?style=social&label=Follow)](https://github.com/okcl?tab=followers)<br/>
 
 
@@ -10,6 +10,6 @@
 - 🌱 I’m currently learning ...
   - Docker and Kubernetes
 - Outside tech, 🎮I love to play games, 📖 read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="ozzyakcali@gmail.com">ozzyakcali@gmail.com</a>
+- 📫 Reach out to me at: <a href="oguzkhanakcali@gmail.com">oguzkhanakcali@gmail.com</a>
 
 
