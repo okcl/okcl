@@ -8,7 +8,7 @@
 
 
 - 🌱 I’m currently learning ...
-  - ML and Rust
+  - AI and Automation
 - Outside tech, 🎮I love to play games, 📖 read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="oguzkhanakcali@gmail.com">oguzkhanakcali@gmail.com</a>
 
